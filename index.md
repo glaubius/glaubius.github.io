@@ -2,7 +2,7 @@
 
 ---
 
-### Geospatial
+### Geospatial Projects
 
 [Terrace Extraction from DEM](/projects/TerraceExtraction.md)
 <img src='images/extracedTerraceWalls.png?raw=true'>
@@ -17,7 +17,7 @@
 
 ---
 
-### Data Science
+### Data Science Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,9 +27,9 @@
 
 ---
 
-### Modeling
+### Modeling Projects
 
 
 ---
 
-### Statistics
+### Statistics/Other Projects

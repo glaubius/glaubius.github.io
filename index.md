@@ -5,7 +5,7 @@
 ### Geospatial
 
 [Terrace Extraction from DEM](/Projects/TerraceExtraction.md)
-
+<img src='images/extracedTerraceWalls.png?raw=true'>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

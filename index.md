@@ -1,4 +1,4 @@
-## Project Portfolio
+## GIS/Data Science Portfolio
 
 ---
 

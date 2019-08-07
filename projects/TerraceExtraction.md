@@ -15,6 +15,6 @@ EDIT - QGIS, terminal tool
 EDIT - list steps here
 
 ### 4. Terrace extraction results
-EDIT - list results with images here 
+EDIT - list results with images here
 
-EDIT - link to tutorial! For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For step-by-step instructions see [Terrace Extraction from DEM tutorial](/pdf/extract-terraces-DEM.pdf).

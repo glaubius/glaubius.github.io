@@ -9,21 +9,16 @@
 
 ---
 [Vostizza Historical GIS](/projects/VostizzaHistoricalGIS.md)
-<img src="images/VostizzaAAGpresSlide.png?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/VostizzaPercHouses.png?raw=true"/>
 
 ---
 
-### Data Science Projects
+### Remote Sensing Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Land Cover Classification in Messenia, Greece](/projects/LCCMessenia.md)
+<img src="images/LCCProcess.png?raw=true"/>
+
+---
 
 ---
 

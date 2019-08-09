@@ -2,3 +2,34 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Social buttons */
+.socialbuttons {
+  margin: 0 auto 0 auto;
+}
+
+.socialbuttons ul {
+  margin: 20px 0 0 0;
+  text-align: center;
+}
+
+.socialbuttons ul li {
+  display: inline;
+}
+
+.socialbuttons ul li a {
+  text-decoration: none;
+}
+
+.socialbuttons ul li svg {
+  width: 40px;
+  height: 40px;
+}
+
+.socialbuttons .github svg {
+  fill: #121414;
+}
+
+.socialbuttons .linkedin svg {
+  fill: #0077B5;
+}

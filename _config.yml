@@ -1,12 +1,12 @@
 title: Jennifer Glaubius # your name (or website title) here
 logo: "/images/libraryProfilePic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data scientist with experience wrangling and analyzing complex archaeological and geomorphic data sets. 
+  Data scientist with experience wrangling and analyzing complex archaeological and geomorphic data sets.
   <br><br>
-  Geospatial analyst with 10+ years experience in GIS and image processing. 
+  Geospatial analyst with 10+ years experience in GIS and image processing.
   <br><br>
-  <a href="www.linkedin.com/in/jen-glaubius">View My LinkedIn Profile</a> 
-  
+   
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -18,10 +18,10 @@ footer-links:
   linkedin: jen-glaubius
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  
+
 theme: jekyll-theme-minimal
 google_analytics: UA-104343330-2 # your Google Analytics tracking ID here

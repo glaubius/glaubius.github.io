@@ -1,6 +1,6 @@
 ## Spatial Patterning of Desertion and Resettlement in Venetian Vostizza (1685-1715)
 
-**Project description:** Add
+**Project description:** Check back for details!
 
 ### 1. Historical background
 

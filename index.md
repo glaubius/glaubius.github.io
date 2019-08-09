@@ -7,7 +7,7 @@
 [Terrace Extraction from DEM](/projects/TerraceExtraction.md)
 <img src='images/extracedTerraceWalls.png?raw=true'>
 
----
+
 [Vostizza Historical GIS](/projects/VostizzaHistoricalGIS.md)
 <img src="images/VostizzaPercHouses.png?raw=true"/>
 
@@ -24,6 +24,7 @@
 
 [Erosion modeling using RUSLE and USPED](/projects/ErosionModeling.md)
 <img src="images/USPEDresults.png?raw=true"/>
+
 ---
 
 ### Statistics/Other Projects

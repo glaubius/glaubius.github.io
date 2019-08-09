@@ -20,11 +20,10 @@
 
 ---
 
----
-
 ### Modeling Projects
 
-
+[Erosion modeling using RUSLE and USPED](/projects/ErosionModeling.md)
+<img src="images/USPEDresults.png?raw=true"/>
 ---
 
 ### Statistics/Other Projects

@@ -8,8 +8,8 @@
 <img src='images/extracedTerraceWalls.png?raw=true'>
 
 ---
-[Vostizza Historical GIS](/pdf/Vostizza_AAG2013pres.pdf)
-<img src="images/VostizzaAAGpresSlide.jpg?raw=true"/>
+[Vostizza Historical GIS](/projects/VostizzaHistoricalGIS.md)
+<img src="images/VostizzaAAGpresSlide.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

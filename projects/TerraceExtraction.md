@@ -4,7 +4,7 @@
 
 ### 1. Characteristics of terraces used for extraction
 
-Terraced landscapes are often described as "stairstep" due to the flattened treads and verical risers. This characteristic morphology can be used to extract terrace walls (risers) from a DEM because the riser is located where there is positive profile curvature. <img src="images/ProfileCurvature.png?raw=true"/>
+Terraced landscapes are often described as "stairstep" due to the flattened treads and verical risers. This characteristic morphology can be used to extract terrace walls (risers) from a DEM because the riser is located where there is positive profile curvature. <img src="../images/ProfileCurvature.png?raw=true"/>
 
 ### 2. Tools for terrace extraction
 

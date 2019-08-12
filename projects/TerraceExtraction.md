@@ -1,10 +1,10 @@
 ## Terrace Extraction from DEM
 
-**Project description:** Agricultural terraces are anthropogenic landscape features found in many parts of the world. As part of a project modeling the impact of terraces on landscape evolution, I needed the spatial location of terraces in Vernazza, Cinque Terre, Italy (ADD pic). I had a 1-m resolution DEM of the study area and found [instructions on how to extract terraces using ArcGIS](https://www.researchgate.net/post/How_to_detect_extract_in_GIS_field_boundaries_walls_on_the_basis_of_DEM_and_SLOPE_raster). Since I did not have access to ArcGIS, I instead extracted the terraces using open source tools, namely QGIS and a command line tool called [Centerline](https://github.com/fitodic/centerline).
+**Project description:** Agricultural terraces are anthropogenic landscape features found in many parts of the world. As part of a project modeling the impact of terraces on landscape evolution, I needed the spatial location of terraces in Vernazza, Cinque Terre, Italy <img src="images/VernazzaTerraces.jpg?raw=true"/>. I had a 1-m resolution DEM of the study area and found [instructions on how to extract terraces using ArcGIS](https://www.researchgate.net/post/How_to_detect_extract_in_GIS_field_boundaries_walls_on_the_basis_of_DEM_and_SLOPE_raster). Since I did not have access to ArcGIS, I instead extracted the terraces using open source tools, namely QGIS and a command line tool called [Centerline](https://github.com/fitodic/centerline).
 
 ### 1. Characteristics of terraces used for extraction
 
-EDIT - Terraced landscapes are often described as "stairstep" due to the flattened treads and verical risers. <img src="images/VernazzaTerraces.jpg?raw=true"/> This characteristic morphology can be used to extract terrace walls (risers) from a DEM because the riser is located at a change in profile curvature. (ADD pic?)
+EDIT - Terraced landscapes are often described as "stairstep" due to the flattened treads and verical risers. This characteristic morphology can be used to extract terrace walls (risers) from a DEM because the riser is located where there is positive profile curvature. <img src="images/ProfileCurvature.png?raw=true"/>
 
 ### 2. Tools for terrace extraction
 
